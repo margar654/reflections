@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Lookig for a bugg is usually a hard isue, because it is not an error that the ide heps you to find, 
+it usually is a problem with the logic, and the only trace you have is the software does not work properly. 
+
+I've never used control versions but I make the effort of learning it because I hope to improve the efficiency 
+of my coding. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    viewing the history of the file the creator can control the evolution of the development
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Creating a manually commit allows more control of the file. When a logiacal 
+    motification is done is a good point to meke a commit. It is not necessary to
+    commit probes or not goods tries. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because in a software program is common to hava multiples files, over all if 
+    we work in POO, while Google Docs is usuall to have one file for all the work
+
+How can you use the commands git log and git diff to view the history of files?
+
+    command git log is for viewing the history of sequential commits, with its id,
+    short description and date of the modification.
+
+    command git diff shows in detail the differences between two sequential commits
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If you break somthing is not catastrophic because you can go back to a previous 
+    commit and retrive a previous version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   I will work whit it by sure.
