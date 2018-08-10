@@ -5,6 +5,14 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	Working directory contains all files related with the proyect, for example 
+	images, audios... or other information files.
+
+	The staging area contains the files to be tracked by git. And the repository
+	contais the same files as the staging area plus hte commits history.
+
+	Un cambio para comprobar el commit. No se ha agragado. Por que sera???
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
