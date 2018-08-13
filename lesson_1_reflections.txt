@@ -43,4 +43,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
    I will work whit it by sure.
 
-Otra prueba de como funcionan los directorios   
+Otra prueba de como funcionan los directorios.
+Vamos ahora a cambiar el archivo para probar git status
