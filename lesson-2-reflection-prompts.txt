@@ -16,16 +16,29 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	The staging area is the interval before commiting. This area is useful for
+	making the necessary changes and only commit when one is sure that the achages 
+	are apropiate.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	Branches are usefull to diverge the code, for new features or new experiments.
+
 How do the diagrams help you visualize the branch structure?
+
+	Visulize branch structure is the only way to know the structure of the
+	project, and navigate along its commits
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	I heve't been able to commit the two branches. It is very frustrating, although
+	I suposse this is good
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
-
-prueba de directorios.saber como funcionan
+	Merging automatically is good when two or more developpers are working in a proyect,
+	over all if they are working in separate parts of the code. Conficts can be solved 
+	manually by agreen the best solution.
