@@ -14,7 +14,16 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Branches: Se trabaja en modo local. Se hace una reama para realizar
+    modificaciones o cambios de la rama principal y concervar esta última
+
+    Clones: copia de un repositirio. Clone puede ser en modo local-local
+    o clonar remoto-local
+
+    Fork: Copia de un repositorio en modo remoto-remoto. Es decir se copia 
+    un repositorio de GitHub a tu cuenta de Git-Hub. Ambos repositorios quedan
+    unidos, de modo que el original puede admitir tus cambios. Se puede tener 
+    en local si realizamos un clone.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
