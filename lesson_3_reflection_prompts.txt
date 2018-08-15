@@ -41,4 +41,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Es bueno una rama separada cuando hay varios programadores trabajando sobre el
+    mismo archivo o grupo. Ello hace que la rama principal o master sea consistente
+    y las pruebas y cambios tengan que ser autorizadas. Es un poco complicado incorporar
+    cambios a la rama principal pero ello redunda en que no se incorporen versiones y 
+    cambios que no tengan sentido y todo ello cree una situación caótica
