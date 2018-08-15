@@ -28,12 +28,15 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Lo mejor es tner una copia actualizada del repo, sobre todo si se trabaja
+    con otras personas. Ello evita conflictos y largas actualizaciones
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Aprender Git es un poco duro ya que tiene muchos conceptos nuevos, pero 
+    supongo que es la única forma de colaborar con otros programadores sin
+    volverse loco y destrozar todo el codigo
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
